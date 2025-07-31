@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pycache/
+*.env
+env/
+venv/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Packages
+*.egg-info/
+dist/
+build/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Data files - usually don't track large data files
+data/*.csv
+data/*.save
+data/*.h5
+
+# Model files (if you want to ignore them, or keep if small)
+models/*.h5
+models/*.save
+
+# Mac system files
+.DS_Store
