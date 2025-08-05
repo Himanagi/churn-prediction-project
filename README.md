@@ -18,3 +18,13 @@ This project implements a Bank Customer Churn Prediction system using machine le
 - Python, Pandas, Seaborn
 - TensorFlow, Keras
 - Scikit-learn
+
+
+This command will open the Jupyter Notebook interface in your default web browser.: This workflow helps you explore data, debug, train, and predict easily.
+cd /Users/hima.sn/churn-prediction-project
+jupyter notebook
+
+
+The notebooks are where you train and test the model interactively.
+The model file is the end product of training — a ready-to-use predictor.
+The scripts like predict.py use this model to make predictions on new data.
